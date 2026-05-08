@@ -17,4 +17,4 @@ print(f"IMC: {IMC:.2f}") #print com formatação
 if IMC >= 30.0:
     print("Cuidado com a sua saúde.")
 elif IMC <= 30.0:
-    print ("A sua saúde esta boa.")
+    print ("Tudo ok.")
